@@ -24,11 +24,11 @@ JavaScript
 
 🌐 Live Demo
 
-👉 https://chanchlathakur380.github.io/calculator-app/
+👉 https://chanchlathakur380-gif.github.io/calculator-app/
 
 💻 GitHub Repository
 
-👉 https://github.com/chanchlathakur380/calculator-app
+👉 https://github.com/chanchlathakur380-gif/calculator-app
 How to Use
 
 Open the live demo link
