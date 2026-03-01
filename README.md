@@ -29,6 +29,7 @@ JavaScript
 💻 GitHub Repository
 
 👉 https://github.com/chanchlathakur380-gif/calculator-app
+
 How to Use
 
 Open the live demo link
@@ -38,3 +39,13 @@ Enter numbers using buttons
 Choose an operator
 
 Click "=" to see result
+
+📚 What I Learned
+
+DOM manipulation using JavaScript
+
+Event handling
+
+Responsive UI design
+
+Deploying projects online
